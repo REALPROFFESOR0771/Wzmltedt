@@ -2,10 +2,10 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = '👸🏻 Owner'
-    ST_BN1_URL = 'https://t.me/QueenMirrorOfficial'
-    ST_BN2_NAME = '😘 Use Me'
-    ST_BN2_URL = 'https://t.me/ShwetaMirror'
+    ST_BN1_NAME = '🗿 Owner'
+    ST_BN1_URL = 'https://t.me/Max_Leech_Zone_Update'
+    ST_BN2_NAME = '🎃 Use Me'
+    ST_BN2_URL = 'https://t.me/max_leech_zone_backup'
     ST_MSG = '''<i>This bot can leech all your direct links|files|torrents to Telegram.</i>
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>🕵Now, This bot will send all your files and links here. Start Using ...</i>'''
@@ -63,7 +63,7 @@ class WZMLStyle:
 ┠ <b>☞ Free :</b> {disk_f} 
 ┖ <b>☞ Total :</b> {disk_t}
     
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>
     '''
     SYS_STATS = '''┎ <b><i>🛠 OS SYSTEM :</i></b>
 ┠ <b>⏰ OS Uptime :</b> {os_uptime}
@@ -86,7 +86,7 @@ class WZMLStyle:
 ┠ <b>☞ Total Core(s) :</b> {total_core}
 ┖ <b>☞ Usabl e CPU(s) :</b> {cpu_use}
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>
     '''
     REPO_STATS = '''┎ <b><i>🧑‍💻 REPO STATISTICS :</i></b>
 ┠ <b>🤖 Bot Updated :</b> {last_commit}
@@ -95,7 +95,7 @@ class WZMLStyle:
 ┠ <b>📝 Last ChangeLog :</b> {commit_details}
 ┖ <b>💥 REMARKS :</b> <code>{remarks}</code>
  
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>
     '''
     BOT_LIMITS = '''┎ <b><i>❗ BOT LIMITATIONS :</i></b>
 ┠ <b>🎯 Direct Limit :</b> {DL} GB
@@ -112,7 +112,7 @@ class WZMLStyle:
 ┠ <b>👤 User Parallel Tasks :</b> {UT}
 ┖ <b>🤖 Bot Parallel Tasks :</b> {BT}
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>
     '''
     # ---------------------
 
@@ -127,7 +127,7 @@ class WZMLStyle:
 ┠ <b>🌐 TimeZone:</b> {timz}
 ┖ <b>🆔 Version:</b> {version}
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>'''
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>'''
     RESTARTED = '''<b><i>🤖 Bot Restarted! 🎉</i></b>'''
     # ---------------------
 
@@ -267,7 +267,7 @@ class WZMLStyle:
     # ---------------------
 
     # USER Setting --> user_setting.py 
-    USER_SETTING = '''㊂ <b><u>User Settings :</u></b>
+    USER_SETTING = '''㊂ <b><u>✔️User Settings :</u></b>
         
 ┎<b>👤 Name :</b> {NAME} ( <code>{ID}</code> )
 ┠<b>🔖 Username :</b> {USERNAME}
@@ -275,11 +275,11 @@ class WZMLStyle:
 ┖<b>🗣️ Language :</b> {LANG}
 
 ➲ <u><b>Available Args:</b></u>
-• <b>-s</b> or <b>-set</b>: Set Directly via Arg
+• <b>-s</b> or <b>-set</b>: Set Directly via Arg😁
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>'''
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>'''
 
-    UNIVERSAL = '''㊂ <b><u>Universal Settings : {NAME}</u></b>
+    UNIVERSAL = '''㊂ <b><u>✔️Universal Settings : {NAME}</u></b>
 
 ┎<b>📺 YT-DLP Options :</b> <b><code>{YT}</code></b>
 ┠<b>🚧 Daily Tasks :</b> <code>{DT}</code> per day
@@ -289,9 +289,9 @@ class WZMLStyle:
 ┠<b>📩 Save Mode :</b> <code>{SAVE_MODE}</code>
 ┖<b>🕵️ User Bot PM :</b> <code>{BOT_PM}</code>
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>'''
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>'''
 
-    MIRROR = '''㊂ <b><u>Mirror/Clone Settings : {NAME}</u></b>
+    MIRROR = '''㊂ <b><u>✔️Mirror/Clone Settings : {NAME}</u></b>
 
 ┎<b>🎀 RClone Config :</b> <i>{RCLONE}</i>
 ┠<b>Ⓟ Mirror Prefix :</b> <code>{MPREFIX}</code>
@@ -302,9 +302,9 @@ class WZMLStyle:
 ┠<b>📝 Total User TD(s) :</b> <i>{USERTD}</i>
 ┖<b>☁️ Daily Mirror :</b> <code>{DM}</code> per day
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>'''
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>'''
 
-    LEECH = '''㊂ <b><u>Leech Settings for {NAME}</u></b>
+    LEECH = '''㊂ <b><u>✔️Leech Settings for {NAME}</u></b>
 
 ┎<b>📂 Daily Leech : </b><code>{DL}</code> per day
 ┠<b>⚙️ Leech Type :</b> <i>{LTYPE}</i>
@@ -318,4 +318,4 @@ class WZMLStyle:
 ┠<b>📦 Leech Dumps :</b> <code>{LDUMP}</code>
 ┖<b>🌈 Leech Remname :</b> <code>{LREMNAME}</code>
 
-<a href="https://t.me/ShwetaMirror"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @ShwetaMirror</b></a>'''
+<a href="https://t.me/Max_Leech_Zone_Update"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @Max_Leech_Zone_Update</b></a>'''
